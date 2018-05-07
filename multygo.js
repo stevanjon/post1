@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2018/05/email-marketing.html"}
 if(x=="2"){xxx="/2018/05/high-quality-pcb-production-service.html"}
 if(x=="3"){xxx="/2018/05/about-crusher-jaw.html"}
 if(x=="4"){xxx="/2018/05/printing-3d-solution.html"}
-if(x=="5"){xxx="/2018/05/fiber-optic-cable-laying-solution.html"}a_to_ve[i].href="http://www.getfiles.review/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/05/fiber-optic-cable-laying-solution.html"}a_to_ve[i].href="http://www.getfiles.review"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
